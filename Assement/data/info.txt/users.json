@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "first_name": "Suhas",
+      "last_name": "Waghe",
+      "age": 22
+    },
+    {
+      "first_name": "veenatai",
+      "last_name": "raut",
+      "age": 32
+    },
+    {
+      "first_name": "Nilesh",
+      "last_name": "Kambale",
+      "age": 25
+    },
+    {
+      "first_name": "yash",
+      "last_name": "chavan",
+      "age": 25
+    }
+  ]
+}
